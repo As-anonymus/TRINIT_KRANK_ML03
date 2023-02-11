@@ -26,8 +26,6 @@ The model uses a training dataset to learn the relationship between the input fe
 - The remaining columns contain the values of the input features for each instance
 
 
-
-
 ## Usage
 
 To use the model, you need to follow the following steps:
@@ -69,6 +67,10 @@ self.classifier = SVC()
 
 This machine learning prediction model provides a simple and flexible way to perform prediction tasks based on input features. The model can be easily customized to use different algorithms and different datasets. The performance of the model can be evaluated by comparing the predictions with the true target variable values.
 
+## Images 
+
+![WhatsApp Image 2023-02-11 at 19 06 15](https://user-images.githubusercontent.com/78965341/218282559-9ed0be74-b499-4b92-a7b1-9f9983188bbb.jpg)
+![WhatsApp Image 2023-02-11 at 19 06 50](https://user-images.githubusercontent.com/78965341/218282566-46f487fd-6b40-4a22-812e-47b91de38027.jpg)
 
 
 
