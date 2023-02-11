@@ -34,8 +34,8 @@ To use the model, you need to follow the following steps:
 
 1. Clone this repository to your local machine 
 
-- $ git clone https://github.com/gocardless/ML03.git
-- $ cd machine-learning-prediction-model
+- $ git clone https://github.com/As-anonymus/TRINIT_KRANK_ML03.git
+- $ cd ML03
 
 2. Load the training data into the model by providing the path to the CSV file
 
